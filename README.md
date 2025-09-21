@@ -29,7 +29,7 @@ git clone <repo-url>
 cd movie-recommender
 
 # Run the Jupyter notebook to generate the model files
-# (similarity.pkl and movie_list.pkl)
+# (similarity.pkl and movie_list.pkl)::::
 
 # Create and activate a virtual environment in PyCharm or any IDE/terminal
 
